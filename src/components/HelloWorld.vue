@@ -20,6 +20,7 @@ export default {
 <style scoped>
 .hello{
   color:black;
+  border: 1px solid #ccc;
 }
 
 .hello a{
